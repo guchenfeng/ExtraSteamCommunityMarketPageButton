@@ -5,6 +5,6 @@ Steam饰品详情页看历史记录是增加额外的筛选按钮（原有按钮
 
 ## 资源链接
 - greasyfork: [greasyfork](https://greasyfork.org/zh-CN/scripts/440814)
-- Github: [Github-ExtraSteamCommunityMarketPageButtons](https://github.com/guchenfeng/ExtraSteamCommunityMarketPageButtons/blob/main/addExtraButtons.js)
+- Github: [Github-ExtraSteamMarketPageButtons](https://github.com/guchenfeng/ExtraSteamMarketPageButtons/blob/main/addExtraButtons.js)
 
 ![截图](./resources/shotcut-1.png)
