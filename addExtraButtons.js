@@ -1,16 +1,18 @@
 // ==UserScript==
-// @name           Steam社区市场价格历史记录附加按钮
-// @name:en        Add extra buttons to the Steam Community Market item details page.
-// @version        0.0.2
-// @description    Steam饰品详情页看历史记录是增加额外的筛选按钮（原有按钮为：周、月、总览）
-// @description:en Add extra buttons to the Steam Community Market item details page when check history prices.
-// @author         孤尘枫
-// @homepageURL    https://greasyfork.org/users/198749
-// @icon           https://store.steampowered.com/favicon.ico
-// @match          https://steamcommunity.com/market/listings/*
-// @grant          none
-// @supportURL     https://steamcommunity.com/id/WildHao/
-// @namespace https://greasyfork.org/users/198749
+// @name               Steam社区市场价格历史记录附加按钮
+// @name:en            Add extra buttons to the Steam Community Market item details page.
+// @name:zh-CN         Steam社区市场价格历史记录附加按钮
+// @version            0.0.2
+// @description        Steam饰品详情页看历史记录是增加额外的筛选按钮（原有按钮为：周、月、总览）
+// @description:en     Add extra buttons to the Steam Community Market item details page when check history prices.
+// @description:zh-CN  Steam饰品详情页看历史记录是增加额外的筛选按钮（原有按钮为：周、月、总览）
+// @author             孤尘枫
+// @homepageURL        https://greasyfork.org/zh-CN/scripts/440814
+// @icon               https://store.steampowered.com/favicon.ico
+// @match              https://steamcommunity.com/market/listings/*
+// @grant              none
+// @supportURL         https://steamcommunity.com/id/WildHao/
+// @namespace          https://greasyfork.org/users/198749
 // ==/UserScript==
 
 (function() {
